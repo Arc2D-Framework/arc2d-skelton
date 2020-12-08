@@ -2,7 +2,7 @@ namespace `display.components` (
 	class NotificationsToggleSwitch  extends w3c.ui.WebComponent  {
 		async onConnected(){
             await super.onConnected();
-            
+
             this.knob = this.querySelector(".knob");
             this.direction = -1;
             this.addEventListener("click", e => this.onHandleToggleClick(e), false, "notifications-toggle-switch");
@@ -49,4 +49,4 @@ namespace `display.components` (
             this.toggleActive();
         }
 	}
-)
+) 

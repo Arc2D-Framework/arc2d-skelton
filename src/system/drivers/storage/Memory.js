@@ -1,6 +1,7 @@
 import '/src/system/drivers/storage/Cursor.js';
 import '/resources/repositories.js';
-window.Query = (await require('/framework/src/libs/query.js')).default;
+import! 'system.drivers.storage.IStorageInterface';
+import '/src/system/libs/query.js';
 
 namespace `system.drivers.storage` (
     class Memory extends system.drivers.storage.IStorageInterface {
@@ -30,7 +31,7 @@ namespace `system.drivers.storage` (
         
         find(cb, query){
             var res = Query.query( this.collection, query.query||{});
-            var cursor = new core.drivers.storage.Cursor(res,query,this);
+            var cursor = new system.drivers.storage.Cursor(res,query,this);
             cb&&cb(cursor, null)
             return cursor;
         }

@@ -24,7 +24,7 @@ namespace `testApps` (
                     "Account Sign-In"
                 ]
             });
-            
+
             this.on("toggleit", (e) => this.toggleContent(e), false, "#main-toggle");
             this.bottomContent = this.querySelector("#bottom-content");
             this.allToggleSwitches = Array.from(this.querySelectorAll("notifications-toggle-switch"));
@@ -42,4 +42,4 @@ namespace `testApps` (
             }
         }
     }
-);
+); 
