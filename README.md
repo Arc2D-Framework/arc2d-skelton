@@ -1,5 +1,7 @@
-### Home Page – https://www.arc2d.com/landing.html
-### Arc2D Docs – https://www.arc2d.com/resources/doc.html
+#### Home Page – https://www.arc2d.com/landing.html
+#### Arc2D Docs – https://www.arc2d.com/resources/doc.html
+
+
 
 ## Arc2D Framework 🦏
 The Arc2D Framework - An Agnostic, W3C ES6/7 Vanilla JavaScript Compliant 2D World & GUI Engine used
@@ -17,7 +19,7 @@ Build multi-connected SPA apps in the same container that load and cache better 
 Stealthfully decorate & enhance existing/legacy pages with Arc, 1 component at a time without altering
 any existing HTML. 
 
-## NO COMPILERS 🚫
+## No Compilers 🚫
 No Webpack, Grunt, Babel, Pre or Post Processors needed. Optional dependencies vary on the developer.
 
 ## SDK Tools 🛠️
@@ -28,7 +30,7 @@ apps using the Prefab SDK tools.
 Time sensitive simulation of physics, collision and AI with input, update and render sequence
 at an fixed update.
 
-## W3C HTML5 Web Components ⚙️
+## W3C Web Components ⚙️
 Build true native WebComponents and assemble them on screen following W3C's recommendation.
 
 ## Namespace Management 🗂️
@@ -50,11 +52,11 @@ Native ES6/7 without builds. Runs live in NodeJS, Electrton and Cordova/Capacito
 Framework managed SPA architecture. Intuitive, seamless and transparent, no "Router"
 mechanisms or API's to fiddle with.
 
-## Auto-Nav (for SPA) 🔮
+## Auto-Nav (for SPA) ⚡️
 The Auto-Nav feature handles navigation between multiple "views" or apps of an SPA using
 traditional links in dot notation mirroring namespace folder structure. 
 
-## Tweens 💣
+## Tweens 💥
 Tween or animate any object with HTML5 and JavaScript properties.
 
 ## Layered Canvas 📊
@@ -84,4 +86,4 @@ SAT engine resolves collisions between any convex shapes on Canvas, HTML or SVG.
 Box2D ready, stepped at a fixed physics update by Arcs quartz loop.
 
 ## Heroku Ready 🚀
-**git push heroku master** for deployment. 
+**git push heroku master** for deployment.
