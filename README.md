@@ -1,3 +1,6 @@
+### Home Page – https://www.arc2d.com/landing.html
+### Arc2D Docs – https://www.arc2d.com/resources/doc.html
+
 ## Arc2D Framework 🦏
 The Arc2D Framework - An Agnostic, W3C ES6/7 Vanilla JavaScript Compliant 2D World & GUI Engine used
 for building enterprise-class 2D, Web and Mobile Applications.
