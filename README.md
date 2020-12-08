@@ -3,11 +3,11 @@ The Arc2D Framework - An Agnostic, W3C ES6/7 Vanilla JavaScript Compliant 2D Wor
 for building enterprise-class 2D, Web and Mobile Applications.
 
 ## Zero Config Setup 📁
-Arc2D has a zero config setup, all you need to do is import the framework source in your HTML head tags.
+Getting started is easy, add 1 line to your HTML **`<head>`** tag to run the framework.
 Clone from this repository and follow the instructions to get started, visit https://www.arc2d.com/resources/doc.html
-for ArcD's full documentation.
+for Arc2D's full documentation.
 
-## Multi-App SPA 🎆
+## Multi-App SPA 🎇
 Build multi-connected SPA apps in the same container that load and cache better than React, Angular & Vue.
 
 ## Progressive Enhancement 🖌️
