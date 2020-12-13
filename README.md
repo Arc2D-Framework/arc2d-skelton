@@ -1,5 +1,5 @@
-#### Home Page – https://www.arc2d.com/landing.html
-#### Arc2D Docs – https://www.arc2d.com/resources/doc.html
+#### Home Page – https://www.arc2d.com/landing
+#### Arc2D Docs – https://www.arc2d.com/resources/doc
 
 
 
@@ -9,7 +9,7 @@ for building enterprise-class 2D, Web and Mobile Applications.
 
 ## Zero Config Setup 📁
 Getting started is easy, add 1 line to your HTML **`<head>`** tag to run the framework.
-Clone from this repository and follow the instructions to get started, visit https://www.arc2d.com/resources/doc.html
+Clone from this repository and follow the instructions to get started, visit https://www.arc2d.com/resources/doc
 for Arc2D's full documentation.
 
 ## Multi-App SPA 🎇
