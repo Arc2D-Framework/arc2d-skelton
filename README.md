@@ -1,7 +1,7 @@
 #### Home Page – https://www.arc2d.com/
 #### Arc2D Docs – https://www.arc2d.com/resources/doc
 
-
+### At 10KB/1400 Lines of Code (LOC). Ultra efficient on mobile, desktop and web devices. Low memory (RAM) footprint and small kernel size puts Arc2D at a solid advantage. 
 
 ## Arc2D Framework 🦏
 The Arc2D Framework - An Agnostic, W3C ES6/7 Vanilla JavaScript Compliant 2D World & GUI Engine used
